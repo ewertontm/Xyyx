@@ -32,7 +32,7 @@ Takes two numbers and returns the sum.
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@ewertontm](https://[www.github.com/ewertontm)
 
 
 ## Contributing
